@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>assignment</title>
+</head>
+<body>
+	<h1>Already Registered? LOGIN now</h1>
+	
+	<label for="Email">Email</label>
+	
+	<input type="text" id="Email">
+	<label for="Password"> Password</label>
+	<input type="text" id="Password">
+	<br>
+	<a href="https://www.interviewbit.com/problems/square-root-of-integer/"> Coding ninja </a>
+	<br>
+	<img src="C:\Users\riddhima sharma\Pictures\IMG20211104183130.jpg"height="200"
+	width="300">
+	<h2>REGISTRATIONS</h2>
+	<label for="First Name">First Name :</label>
+	<input type="text" id="First Name"><br>
+	<label for="Last Name">Last Name   :</label>
+	<input type="text" id="Last Name">
+	<br>
+	<p>
+		Current address
+	</p>
+	<label for=" Flat NO.">Flat NO.</label>
+	<input type="text" id="Flat No.">
+	<br>
+	<label for="Locality ">Locality</label> 
+	
+	<input type="text" id="Locality">
+	<br>
+	<label for="City">City</label>
+	<input type="text" id="City">
+	<p> <b>IS CURRENT AND PERMANENT ADDRESS SAME?</b>
+		
+	<input type="radio">Yes
+	<input type="radio">No<br>
+	<label for="Email">Email</label>
+	<input type="text" id="Email" required><br>
+	<label for="Password">password</label>
+	<input type="text" name="password">
+</p>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
